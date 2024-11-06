@@ -2,7 +2,7 @@
 
 Welcome to the MERN Estate Platform! This project is a modern, feature-rich real estate application that leverages the power of the MERN (MongoDB, Express, React, Node.js) stack. It allows users to explore property listings, contact agents, and manage their real estate needs effortlessly. 
 
-![Real Estate Platform](./client/dist/assets/Screenshot%202024-11-06%20081402.png)
+![Real Estate Platform](./client/src/assets/Screenshot%202024-11-06%20081402.png)
 
 ## 📋 Table of Contents
 
@@ -26,14 +26,14 @@ The MERN Estate Platform is a full-featured application designed to connect prop
 
 - **User Authentication**: Sign up, log in, and manage user sessions securely using JWT.
 - **Property Listings**: Browse, filter, and view detailed information on properties.
-![Property Listings](./client/dist/assets/Screenshot%202024-11-06%20081424.png)
+![Property Listings](./client/src/assets/Screenshot%202024-11-06%20081424.png)
 - **Favorites**: Save favorite listings for easy access.
-![Favorites](./client/dist/assets/Screenshot%202024-11-06%20081504.png)
+![Favorites](./client/src/assets/Screenshot%202024-11-06%20081504.png)
 - **Agent Profiles**: Connect with agents and view their listings.
 - **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
-![Responsive Design](./client/dist/assets/Screenshot%202024-11-06%20082222.png)
+![Responsive Design](./client/src/assets/Screenshot%202024-11-06%20082222.png)
 - **Admin Dashboard**: An interface for managing property listings and user roles.
-![Admin Dashboard](./client/dist/assets/Screenshot%202024-11-06%20081556.png)
+![Admin Dashboard](./client/src/assets/Screenshot%202024-11-06%20081556.png)
 - **Real-time Notifications**: Get notified of new listings and inquiries.
 
 ## Tech Stack
